@@ -37,6 +37,7 @@
     "cmdk": "^0.2.0",
     "eslint": "^8.55.0",
     "eslint-config-next": "^14.0.3",
+    "hls.js": "^1.5.0-beta.1.0.canary.9794",
     "lucide-react": "^0.294.0",
     "next": "^14.0.3",
     "postcss": "^8.4.32",
